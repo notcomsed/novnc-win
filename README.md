@@ -12,9 +12,7 @@ recommand conda
 
 [original docs](https://github.com/notcomsed/novnc-win/blob/master/README_bk.md)
 
-windows下可以直接使用<br />
-直接下载解压在一个目录就行，集成了websockify-0.10.0，novnc原始版本为1.3.0<br />
-可以配合TightVNC实现windows下web云桌面<br />
-可以使用nginx下开启ssl
+集成了websockify-0.10.0，novnc原始版本为1.3.0
+
 
 玩的开心
