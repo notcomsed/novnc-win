@@ -4,10 +4,10 @@
 [![Lint Status](https://github.com/novnc/noVNC/workflows/Lint/badge.svg)](https://github.com/novnc/noVNC/actions?query=workflow%3ALint)
 
 ### Description
-noVNC Windows 
-start:
-cd noVNC\utils
-novnc_proxy --listen 8080 --vnc 127.0.0.1:5900
+noVNC Windows <br />
+start:<br />
+cd noVNC\utils<br />
+novnc_proxy --listen 8080 --vnc 127.0.0.1:5900<br />
 
 noVNC is both a HTML VNC client JavaScript library and an application built on
 top of that library. noVNC runs well in any modern browser including mobile
