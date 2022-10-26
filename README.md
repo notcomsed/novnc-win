@@ -1,5 +1,5 @@
 # novnc-win
-This is noVNC version which can run at win cmd natural without mingw32(git-bash) or Cygwin
+This is noVNC version which can run at Windows cmd natural without mingw32(git-bash) or Cygwin
 
 start cmd
 
